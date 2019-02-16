@@ -68,6 +68,8 @@
 
 [Vuex Persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
 
+[Vuex Pathify](https://github.com/davestewart/vuex-pathify)
+
 [Vue Local Scope](https://github.com/posva/vue-local-scope)
 
 [Vue Promised](https://github.com/posva/vue-promised)
@@ -150,9 +152,31 @@
 
 [Vuetify Floating Action Button Menu](https://codepen.io/pojntfx/pen/VMaJLX)
 
+[Vuetify Colorizer](https://github.com/chmjs/vuetify-colorizer)
+
+[Vuetify Toast Snackbar](https://github.com/eolant/vuetify-toast-snackbar)
+
+[Vuetify Todo](https://github.com/davidgaroro/vuetify-todo-pwa)
+
+[Vuetify Confirm Dialog](https://github.com/yariksav/vuetify-confirm)
+
+[Vuetify Datetime Picker](https://github.com/darrenfang/vuetify-datetime-picker)
+
+[Vuetify Upload Button](https://github.com/DoritoBandito/vuetify-upload-button)
+
+[Vuetify v-currency-field](https://github.com/phiny1/v-currency-field)
+
+[Vuetify Dialog](https://github.com/yariksav/vuetify-dialog)
+
+[Vuetify RTL](https://github.com/meyt/vuetify-rtl-style)
+
 ---
 
 [OpenApi Specification Explorer](https://codepen.io/macherel/pen/JpoXaq)
+
+## VuePress
+
+[Vuepress Vuetify Theme](https://github.com/PedroGao/vuepress-theme-vuetify)
 
 ## UI
 
@@ -262,7 +286,7 @@
 
 [v-playback](https://github.com/TerryZ/v-playback)
 
-[Content Placeholders](https://github.com/michalsnik/vue-content-placeholders) **OR** [Content Loading](https://github.com/LucasLeandro1204/vue-content-loading)
+[Content Placeholders](https://github.com/michalsnik/vue-content-placeholders) **OR** [Content Loading](https://github.com/LucasLeandro1204/vue-content-loading) **OR** [Vue Content Loader](https://github.com/egoist/vue-content-loader)
 
 [Rangedate Picker](https://github.com/bliblidotcom/vue-rangedate-picker)
 
@@ -273,6 +297,8 @@
 [ScrollTo](https://github.com/rigor789/vue-scrollto)
 
 [BackToTop](https://github.com/caiofsouza/vue-backtotop)
+
+[Vue Smooth Picker](https://github.com/hiyali/vue-smooth-picker)
 
 [Vue Bar](https://github.com/DominikSerafin/vuebar)
 
@@ -353,6 +379,8 @@
 [Vue Fuse.js](https://github.com/shayneo/vue-fuse)
 
 [Vue Switch Case](https://github.com/lmiller1990/v-switch-case)
+
+[Vue Jalali Moment](https://github.com/fingerpich/vue-jalali-moment)
 
 [Clipboard](https://github.com/Inndy/vue-clipboard2)
 
@@ -481,6 +509,8 @@ Flatted.js
 JSON Editor
 
 Weather forecast
+
+[x-spreadsheet](https://github.com/myliang/x-spreadsheet)
 
 [Wheelnav](https://github.com/softwaretailoring/wheelnav)
 
