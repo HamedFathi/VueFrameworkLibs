@@ -134,9 +134,21 @@
 
 [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout)
 
+[Vuetify Feature Discovery](https://codepen.io/JamieCurnow/pen/GXpNBz)
+
+[Vuetify Toolbar Mobile](https://codepen.io/kematzy/pen/oMgrjE)
+
+[Vuetify Menu](https://codepen.io/headworldtech/pen/OZqqOm)
+
+[Vuetify Dynamic Pagination](https://codepen.io/macherel/pen/JpoXaq)
+
+[Vuetify Expandable List](https://codepen.io/typerory/pen/LrXqXe)
+
+[Vuetify Floating Action Button Menu](https://codepen.io/pojntfx/pen/VMaJLX)
+
 ---
 
-[OpenApi Specification Explorer](https://github.com/darosh/oax)
+[OpenApi Specification Explorer](https://codepen.io/macherel/pen/JpoXaq)
 
 ## UI
 
