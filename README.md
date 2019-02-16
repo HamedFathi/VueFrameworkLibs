@@ -320,6 +320,12 @@
 
 [Vue Progress Path](https://github.com/Akryum/vue-progress-path)
 
+[Vue Sidebar Menu](https://github.com/yaminncco/vue-sidebar-menu)
+
+[Vue Responsive Grid Layout](https://github.com/lrembacz/vue-responsive-grid-layout)
+
+[Vue Golden Layout](https://github.com/emedware/vue-golden-layout)
+
 [Vue Autosuggest](https://github.com/darrenjennings/vue-autosuggest)
 
 [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad) **OR** [Vue Signature](https://github.com/WangShayne/vue-signature)
