@@ -356,6 +356,8 @@
 
 [Vue Bus](https://github.com/fffixed/vue-bus)
 
+[Vue Form Generator](https://github.com/vue-generators/vue-form-generator)
+
 ## Events
 
 [Vue Event Manager](https://github.com/pagekit/vue-event-manager)
