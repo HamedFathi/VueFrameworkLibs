@@ -108,6 +108,8 @@
 
 [Vue Chimera](https://github.com/chimera-js/vue-chimera)
 
+[Jest Mock Axios](https://github.com/knee-cola/jest-mock-axios)
+
 ## Material Design
 
 [Vuetify](https://vuetifyjs.com/en/)
@@ -251,6 +253,12 @@
 [BackToTop](https://github.com/caiofsouza/vue-backtotop)
 
 [Vue Bar](https://github.com/DominikSerafin/vuebar)
+
+[Vue Touch Keyboard](https://github.com/icebob/vue-touch-keyboard)
+
+[Vue Keyboard](https://github.com/martywallace/vue-keyboard)
+
+[Vue Router Sitemap](https://github.com/40818419/vue-router-sitemap)
 
 [Vue Focus](https://github.com/simplesmiler/vue-focus)
 
@@ -439,6 +447,14 @@ Flatted.js
 JSON Editor
 
 Weather forecast
+
+[Timesheet](https://github.com/sbstjn/timesheet.js)
+
+[Voca](https://github.com/panzerdp/voca)
+
+[Immutable](https://github.com/facebook/immutable-js)
+
+[Resumable](https://github.com/23/resumable.js)
 
 ## Webpack
 
