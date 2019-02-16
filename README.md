@@ -124,6 +124,8 @@
 
 [Vuetify Snackbar Queue](https://codesandbox.io/s/z2v919669m)
 
+[Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout)
+
 ---
 
 [OpenApi Specification Explorer](https://github.com/darosh/oax)
@@ -327,6 +329,12 @@
 [Vue Faker](https://github.com/BrockReece/vue-faker) + [Faker.js](https://www.npmjs.com/package/faker) + [@types/faker](https://www.npmjs.com/package/@types/faker)
 
 [Consola](https://github.com/nuxt/consola)
+
+[Vue Lodash](https://github.com/Ewocker/vue-lodash)
+
+[Vue Axe](https://github.com/vue-a11y/vue-axe)
+
+[Vue Mousetrap](https://github.com/g33kio/vue-mousetrap)
 
 ## Events
 
