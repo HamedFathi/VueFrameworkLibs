@@ -398,6 +398,8 @@
 
 [Creating Custom Vue.js Plugins](https://alligator.io/vuejs/creating-custom-plugins/) **And** [Writing a very simple plugin in Vue.js](https://dev.to/nkoik/writing-a-very-simple-plugin-in-vuejs---example-8g8)
 
+[Bluebird with Vue](https://stackoverflow.com/questions/43977688/how-to-use-bluebird-js-with-vue-js)
+
 ## Shortcomings
 
 [Todo](https://codepen.io/sharon-the-encoder/pen/wEgELv)
@@ -461,6 +463,8 @@ Flatted.js
 JSON Editor
 
 Weather forecast
+
+[Wheelnav](https://github.com/softwaretailoring/wheelnav)
 
 [Timesheet](https://github.com/sbstjn/timesheet.js)
 
