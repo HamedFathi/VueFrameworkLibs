@@ -412,6 +412,8 @@
 
 [Bluebird with Vue](https://stackoverflow.com/questions/43977688/how-to-use-bluebird-js-with-vue-js)
 
+[Dockerize Vue](https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
+
 ## Shortcomings
 
 [Todo](https://codepen.io/sharon-the-encoder/pen/wEgELv)
@@ -494,3 +496,18 @@ Weather forecast
 
 [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
 
+## Docs
+
+https://github.com/mdx-js/mdx
+https://github.com/leptosia/docute
+https://github.com/HcySunYang/vuese
+http://clenemt.github.io/docdash/
+https://doxdox.org/
+https://github.com/mrjoelkemp/jsdoc3-parser
+https://github.com/Microsoft/tsdoc
+https://github.com/jsdoc3/jsdoc
+https://github.com/onury/docma
+https://github.com/swagger-api/swagger-ui
+https://github.com/facebook/Docusaurus
+https://github.com/apidoc/apidoc
+https://github.com/docsifyjs/docsify
