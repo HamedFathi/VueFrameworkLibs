@@ -74,6 +74,8 @@
 
 [Vuex Mock Store](https://github.com/posva/vuex-mock-store)
 
+[Web Component Wrapper](https://github.com/vuejs/vue-web-component-wrapper)
+
 ## Localization
 
 [Vue I18n](https://github.com/kazupon/vue-i18n)
@@ -109,6 +111,10 @@
 [Vue Chimera](https://github.com/chimera-js/vue-chimera)
 
 [Jest Mock Axios](https://github.com/knee-cola/jest-mock-axios)
+
+[Axios Logger](https://github.com/hg-pyun/axios-logger)
+
+[Axios Ehttps://codepen.io/headworldtech/pen/OZqqOmxtensions](https://github.com/kuitos/axios-extensions)
 
 ## Material Design
 
@@ -347,6 +353,8 @@
 [Vue Axe](https://github.com/vue-a11y/vue-axe)
 
 [Vue Mousetrap](https://github.com/g33kio/vue-mousetrap)
+
+[Vue Bus](https://github.com/fffixed/vue-bus)
 
 ## Events
 
