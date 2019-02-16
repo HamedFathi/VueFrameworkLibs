@@ -14,6 +14,8 @@
 
 [Nuxt.js](https://nuxtjs.org/)
 
+[Nuxt Class Component](https://github.com/nuxt-community/nuxt-class-component)
+
 [VuePress](https://vuepress.vuejs.org/)
 
 [VueFire](https://github.com/vuejs/vuefire)
@@ -77,6 +79,8 @@
 [Vuex Mock Store](https://github.com/posva/vuex-mock-store)
 
 [Web Component Wrapper](https://github.com/vuejs/vue-web-component-wrapper)
+
+[Vue separate files Webpack loader](https://github.com/NetCZ/vue-separate-files-webpack-loader)
 
 ## Localization
 
