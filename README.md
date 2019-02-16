@@ -114,7 +114,11 @@
 
 [Axios Logger](https://github.com/hg-pyun/axios-logger)
 
-[Axios Ehttps://codepen.io/headworldtech/pen/OZqqOmxtensions](https://github.com/kuitos/axios-extensions)
+[Axios Extensions](https://github.com/kuitos/axios-extensions)
+
+[Axios Debug Log](https://github.com/Gerhut/axios-debug-log)
+
+[Axios REST](https://github.com/eldomagan/axios-rest)
 
 ## Material Design
 
@@ -484,11 +488,13 @@ Weather forecast
 
 [Voca](https://github.com/panzerdp/voca)
 
-[Immutable](https://github.com/facebook/immutable-js)
-
 [Resumable](https://github.com/23/resumable.js)
 
 [Immutable](https://github.com/immutable-js/immutable-js)
+
+[Bottleneck](https://github.com/SGrondin/bottleneck)
+
+[Validate.js](https://github.com/ansman/validate.js)
 
 ## Webpack
 
