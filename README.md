@@ -312,6 +312,10 @@
 
 [VueTable 2](https://github.com/ratiw/vuetable-2/tree/next)
 
+[Vue Flex](https://github.com/alexsasharegan/vue-flex/)
+
+[Vue Grid Layout](https://github.com/jbaysolutions/vue-grid-layout)
+
 ## Non-UI
 
 [Vue Shortkey](https://github.com/iFgR/vue-shortkey)
@@ -455,6 +459,8 @@ Weather forecast
 [Immutable](https://github.com/facebook/immutable-js)
 
 [Resumable](https://github.com/23/resumable.js)
+
+[Immutable](https://github.com/immutable-js/immutable-js)
 
 ## Webpack
 
