@@ -412,6 +412,8 @@
 
 [Vue Form Generator](https://github.com/vue-generators/vue-form-generator)
 
+[Vue SFC Parser](https://github.com/ktsn/vue-sfc-parser)
+
 ## Events
 
 [Vue Event Manager](https://github.com/pagekit/vue-event-manager)
