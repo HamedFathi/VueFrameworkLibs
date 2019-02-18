@@ -458,6 +458,8 @@
 
 [Dockerize Vue](https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
 
+[Vue CSS in JS](https://link.medium.com/MT3FSW0vpU)
+
 ## Shortcomings
 
 [Todo](https://codepen.io/sharon-the-encoder/pen/wEgELv)
