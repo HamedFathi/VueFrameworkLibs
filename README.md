@@ -402,6 +402,8 @@
 
 [Vue Faker](https://github.com/BrockReece/vue-faker) + [Faker.js](https://www.npmjs.com/package/faker) + [@types/faker](https://www.npmjs.com/package/@types/faker)
 
+[Dynamic Menu made with Vue](https://github.com/twoquethree/dynamic-menu-vuejs)
+
 [Consola](https://github.com/nuxt/consola)
 
 [Vue Lodash](https://github.com/Ewocker/vue-lodash)
