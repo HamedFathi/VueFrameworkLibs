@@ -82,7 +82,7 @@
 
 [Vue Styled Components](https://github.com/styled-components/vue-styled-components)
 
-[Vue separate files Webpack loader](https://github.com/NetCZ/vue-separate-files-webpack-loader)
+[Vue Fragment](https://github.com/y-nk/vue-fragment)
 
 ## Localization
 
