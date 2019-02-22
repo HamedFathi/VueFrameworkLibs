@@ -72,6 +72,8 @@
 
 [Vuex Pathify](https://github.com/davestewart/vuex-pathify)
 
+[Vuex Emotion Module](https://github.com/nuxt-community/emotion-module)
+
 [Vue Local Scope](https://github.com/posva/vue-local-scope)
 
 [Vue Promised](https://github.com/posva/vue-promised)
@@ -83,6 +85,8 @@
 [Vue Styled Components](https://github.com/styled-components/vue-styled-components)
 
 [Vue Fragment](https://github.com/y-nk/vue-fragment)
+
+[Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
 
 ## Localization
 
@@ -418,6 +422,8 @@
 
 [Vue SFC Parser](https://github.com/ktsn/vue-sfc-parser)
 
+[v-emotion](https://github.com/javialon26/v-emotion)
+
 ## Events
 
 [Vue Event Manager](https://github.com/pagekit/vue-event-manager)
@@ -463,6 +469,8 @@
 [Dockerize Vue](https://vuejs.org/v2/cookbook/dockerize-vuejs-app.html)
 
 [Vue CSS in JS](https://link.medium.com/MT3FSW0vpU)
+
+[Using Tailwind with Vue](https://www.jerriepelser.com/blog/using-tailwindcss-with-vuejs/)
 
 ## Shortcomings
 
