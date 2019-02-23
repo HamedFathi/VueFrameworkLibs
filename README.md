@@ -108,7 +108,7 @@
 
 [VeeValidate](https://baianat.github.io/vee-validate/)
 
-[Vuelidate](https://monterail.github.io/vuelidate/)
+*[Vuelidate](https://monterail.github.io/vuelidate/)
 
 ## HTTP
 
