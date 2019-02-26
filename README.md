@@ -84,6 +84,8 @@
 
 [Vue Styled Components](https://github.com/styled-components/vue-styled-components)
 
+[Vue Literal Compiler](https://github.com/michaelolof/vue-literal-compiler)
+
 [Vue Fragment](https://github.com/y-nk/vue-fragment)
 
 [Vue Storefront](https://github.com/DivanteLtd/vue-storefront)
