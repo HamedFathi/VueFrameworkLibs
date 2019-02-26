@@ -224,6 +224,8 @@
 
 [Vue Tour](https://github.com/pulsardev/vue-tour)
 
+[Vue Highlight.js](https://gluons.github.io/vue-highlight.js/)
+
 [Vue Bars](https://github.com/DeviaVir/vue-bar)
 
 [Vue Awesome Countdown](https://github.com/mlinquan/vue-awesome-countdown)
