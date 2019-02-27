@@ -120,6 +120,8 @@
 
 [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
 
+[Axios Cache Adapter](https://github.com/RasCarlito/axios-cache-adapter)
+
 [Vue Axios](https://github.com/imcvampire/vue-axios)
 
 [Vue Chimera](https://github.com/chimera-js/vue-chimera)
@@ -179,6 +181,8 @@
 [Vuetify v-currency-field](https://github.com/phiny1/v-currency-field)
 
 [Vuetify Dialog](https://github.com/yariksav/vuetify-dialog)
+
+[Vuetify Number Field](https://github.com/paulpv/vuetify-number-field)
 
 [Vuetify RTL](https://github.com/meyt/vuetify-rtl-style)
 
@@ -281,6 +285,16 @@
 [Monaco Editor](https://github.com/egoist/vue-monaco)
 
 [Promise Button](https://github.com/STUkh/vue-promise-btn)
+
+[Vue Splitpanes](https://github.com/antoniandre/splitpanes)
+
+[Vue flux](https://deulos.github.io/vue-flux/)
+
+[Vue Sidebar Menu](https://github.com/yaminncco/vue-sidebar-menu)
+
+[Vue Animated Number](https://github.com/Leocardoso94/animated-number-vue)
+
+[Vue Painting](https://github.com/wotermelon/vue-painting)
 
 [ProgressBar](https://github.com/hilongjw/vue-progressbar)
 
@@ -427,6 +441,14 @@
 [Vue SFC Parser](https://github.com/ktsn/vue-sfc-parser)
 
 [v-emotion](https://github.com/javialon26/v-emotion)
+
+[Vue Long Click](https://github.com/ittus/vue-long-click)
+
+[Vue Long Press Directive](https://github.com/kapetan/vue-long-press-directive)
+
+[Vue Closable](https://github.com/TahaSh/vue-closable)
+
+[Vue Numeral.js filter](https://github.com/lloydjatkinson/vue-numeral-filter)
 
 ## Events
 
