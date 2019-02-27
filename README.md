@@ -448,8 +448,6 @@
 
 [Vue Closable](https://github.com/TahaSh/vue-closable)
 
-[Vue Numeral.js filter](https://github.com/lloydjatkinson/vue-numeral-filter)
-
 ## Events
 
 [Vue Event Manager](https://github.com/pagekit/vue-event-manager)
