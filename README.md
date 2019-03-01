@@ -386,6 +386,12 @@
 
 [Vue Timepickr](https://github.com/HamedFathi/vue-timepickr)
 
+[Vssue](https://github.com/meteorlxy/vssue)
+
+[V-Money-Persian](https://github.com/alibaba-aero/v-money-persian)
+
+[Vue Dragscroll](https://github.com/donmbelembe/vue-dragscroll)
+
 [Vue Progressive Weather App](https://github.com/jimmerioles/progressive-weather-app)
 
 [Vue Slick Carousel](https://github.com/kenwheeler/slick/)
@@ -419,6 +425,8 @@
 [Vue Switch Case](https://github.com/lmiller1990/v-switch-case)
 
 [Vue Jalali Moment](https://github.com/fingerpich/vue-jalali-moment)
+
+[Vue Elem Id](https://github.com/whitetrefoil/vue-elem-id)
 
 [Clipboard](https://github.com/Inndy/vue-clipboard2)
 
