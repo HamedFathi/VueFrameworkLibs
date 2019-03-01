@@ -298,6 +298,8 @@
 
 [ProgressBar](https://github.com/hilongjw/vue-progressbar)
 
+[Vue Table For](https://github.com/hunterae/vue-table-for)
+
 [Circle Progress](https://github.com/vrajroham/vue-circle-progress)
 
 [v-dialogs](https://github.com/TerryZ/v-dialogs)
@@ -395,6 +397,8 @@
 [VueTable 2](https://github.com/ratiw/vuetable-2/tree/next)
 
 [Vue Flex](https://github.com/alexsasharegan/vue-flex/)
+
+[Vue Splitpanes](https://github.com/antoniandre/splitpanes)
 
 [Vue Grid Layout](https://github.com/jbaysolutions/vue-grid-layout)
 
