@@ -100,6 +100,8 @@
 
 [Vue Meta](https://github.com/declandewet/vue-meta)
 
+[Vue Head](https://github.com/ktquez/vue-head)
+
 ## Authentication
 
 [Vue Authenticate](https://github.com/dgrubelic/vue-authenticate)
