@@ -10,6 +10,17 @@ Vue.js - The Progressive JavaScript Framework.
 [JSX for Vue 3](https://github.com/vuejs/jsx-next)
 
 ---
+### Compiler
+
+[Vue Template Compiler](https://www.npmjs.com/package/vue-template-compiler)
+
+[Vue Component Compiler](https://github.com/vuejs/vue-component-compiler)
+
+[Vue Component Compiler Utils](https://github.com/vuejs/component-compiler-utils)
+
+[Vue Loader](https://vue-loader.vuejs.org/)
+
+---
 ### Router
 
 [Vue Router 4](https://next.router.vuejs.org/)
@@ -19,12 +30,24 @@ Vue.js - The Progressive JavaScript Framework.
 
 [Vuex 4](https://next.vuex.vuejs.org/)
 
+[Vuex Persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
+
+[Vuex Pathify](https://github.com/davestewart/vuex-pathify)
+
 [Pinia](https://github.com/posva/pinia)
 
 ---
-### CLI
+### Scaffolding
 
 [Vue CLI](https://cli.vuejs.org/)
+
+[Vue CLI Plugin for Vuetify](https://github.com/vuetifyjs/vue-cli-plugins)
+
+[Vue CLI Plugin for Apollo](https://github.com/Akryum/vue-cli-plugin-apollo)
+
+[Vue CLI Plugin SSR](https://github.com/Akryum/vue-cli-plugin-ssr)
+
+[Create Nuxt App](https://github.com/nuxt/create-nuxt-app)
 
 ---
 ### SSR
@@ -36,9 +59,9 @@ Vue.js - The Progressive JavaScript Framework.
 
 [Vue Test Utils 2](https://vuejs.github.io/vue-test-utils-next-docs)
 
-[vuex-mock-store](https://github.com/posva/vuex-mock-store)
+[Vuex Mock Store](https://github.com/posva/vuex-mock-store)
 
-[vue-router-mock](https://github.com/posva/vue-router-mock)
+[Vue Router Mock](https://github.com/posva/vue-router-mock)
 
 ---
 ### E2E Testing
@@ -46,9 +69,14 @@ Vue.js - The Progressive JavaScript Framework.
 [Cypress Vue](https://github.com/cypress-io/cypress/tree/master/npm/vue)
 
 ---
-## Build Tool
+### Build Tool
 
 [Vite](https://github.com/vitejs/vite)
+
+---
+### Dev Tools
+
+[Vue DevTools](https://github.com/vuejs/vue-devtools)
 
 ---
 ### Static Site Generator
@@ -95,7 +123,25 @@ Vue.js - The Progressive JavaScript Framework.
 ---
 ### HTTP
 
-[Vue-Axios](https://github.com/imcvampire/vue-axios) with [Axios](https://github.com/axios/axios)
+[Vue-Axios](https://github.com/imcvampire/vue-axios)
+
+* [Axios](https://github.com/axios/axios)
+
+* [Axios Retry](https://github.com/softonic/axios-retry)
+
+* [Axios Mock Adapter](https://github.com/ctimmerm/axios-mock-adapter)
+
+* [Axios Cache Adapter](https://github.com/RasCarlito/axios-cache-adapter)
+
+* [Axios Logger](https://github.com/hg-pyun/axios-logger)
+
+* [Axios Extensions](https://github.com/kuitos/axios-extensions)
+
+* [Axios Debug Log](https://github.com/Gerhut/axios-debug-log)
+
+* [Mocha Axios](https://github.com/jdrydn/mocha-axios)
+
+* [Jest Mock Axios](https://github.com/knee-cola/jest-mock-axios)
 
 ---
 ### Validation
@@ -136,4 +182,9 @@ Vue.js - The Progressive JavaScript Framework.
 
 ---
 ### Miscellaneous
+
+[Vue Rx](https://github.com/NOPR9D/vue-next-rx)
+
 [VuePromised](https://github.com/posva/vue-promised)
+
+[Vue 3 Logger](https://github.com/MarcSchaetz/vuejs3-logger)
