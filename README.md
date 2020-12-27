@@ -185,6 +185,10 @@ The Progressive JavaScript Framework.
 ---
 ### Miscellaneous
 
+[Vue Virtual Scroller](https://github.com/Akryum/vue-virtual-scroller)
+
+[Vue Observe Visibility](https://github.com/Akryum/vue-observe-visibility)
+
 [Vue Rx](https://github.com/NOPR9D/vue-next-rx)
 
 [VuePromised](https://github.com/posva/vue-promised)
@@ -192,6 +196,86 @@ The Progressive JavaScript Framework.
 [Vue Local Scope](https://github.com/posva/vue-local-scope)
 
 [Vue 3 Logger](https://github.com/MarcSchaetz/vuejs3-logger)
+
+[Vue iMask](https://github.com/uNmAnNeR/imaskjs/tree/master/packages/vue-imask)
+
+[Vue ApexCharts](https://github.com/apexcharts/vue-apexcharts)
+
+[Vue QRCode](https://github.com/scopewu/qrcode.vue)
+
+[Vue Typed.js](https://github.com/Orlandster/vue-typed-js)
+
+[Vue Leaflet](https://github.com/vue-leaflet/Vue2Leaflet)
+
+[Vue Recaptcha](https://github.com/DanSnow/vue-recaptcha)
+
+[Vue Draggable](https://github.com/SortableJS/vue.draggable.next)
+
+[Vue Smooth DnD](https://github.com/kutlugsahin/vue-smooth-dnd)
+
+[Vue Tour](https://github.com/pulsardev/vue-tour)
+
+[Vue Select](https://github.com/sagalbot/vue-select)
+
+[Vue Multiselect](https://github.com/shentao/vue-multiselect)
+
+[v-selectpage](https://github.com/TerryZ/v-selectpage)
+
+[v-gallery](https://github.com/TerryZ/v-gallery)
+
+[Vue Lazyload](https://github.com/hilongjw/vue-lazyload)
+
+[Vue Highlight.js](https://github.com/gluons/vue-highlight.js)
+
+[Vue Quill Editor](https://github.com/surmon-china/vue-quill-editor)
+
+[Vue Sidebar Menu](https://github.com/yaminncco/vue-sidebar-menu/tree/next)
+
+[Splitpanes](https://github.com/antoniandre/splitpanes)
+
+[Vue Promise Btn](https://github.com/STUkh/vue-promise-btn)
+
+[Vue Monaco](https://github.com/egoist/vue-monaco)
+
+[Vue Cropperjs](https://github.com/Agontuk/vue-cropperjs)
+
+[Vue Json Pretty](https://github.com/leezng/vue-json-pretty)
+
+[Vue Password Strength Meter](https://github.com/apertureless/vue-password-strength-meter)
+
+[Vue Circle Slider](https://github.com/devstark-com/vue-circle-slider)
+
+[Vue Rete.js](https://github.com/retejs/vue-render-plugin)
+
+[v-calendar](https://github.com/nathanreyes/v-calendar)
+
+[Persian Datetime Picker](https://github.com/talkhabi/vue-persian-datetime-picker)
+
+[Vue Poll](https://github.com/ppietris/vue-poll)
+
+[Vue Signature](https://github.com/WangShayne/vue-signature)
+
+[Vue ScrollTo](https://github.com/rigor789/vue-scrollto)
+
+[Vssue](https://github.com/meteorlxy/vssue)
+
+[Vue Event Manager](https://github.com/pagekit/vue-event-manager)
+
+[Vue Resize](https://github.com/Akryum/vue-resize)
+
+[Vue Storage](https://github.com/maple3142/vuejs-storage)
+
+[v-switch-case](https://github.com/lmiller1990/v-switch-case)
+
+[v-offline](https://github.com/vinayakkulkarni/v-offline)
+
+[Consola](https://github.com/nuxt-contrib/consola)
+
+[Vue Axe](https://github.com/vue-a11y/vue-axe-next)
+
+[Vue Mousetrap](https://github.com/g33kio/vue-mousetrap)
+
+[Vue Long Click](https://github.com/ittus/vue-long-click)
 
 ---
 ### Vuetify Supplements
@@ -544,3 +628,5 @@ new Vue({
   }
 })
 ```
+
+---
