@@ -1,6 +1,8 @@
+![Vue Logo](https://i.ibb.co/dKxqx0m/logo.png)
+
 # Vue 3
 
-Vue.js - The Progressive JavaScript Framework.
+The Progressive JavaScript Framework.
 
 ---
 ### Framework
