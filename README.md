@@ -277,6 +277,8 @@ The Progressive JavaScript Framework.
 
 [Vue Long Click](https://github.com/ittus/vue-long-click)
 
+[Vue Mention](https://github.com/Akryum/vue-mention)
+
 ---
 ### Vuetify Supplements
 
